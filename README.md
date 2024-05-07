@@ -23,6 +23,18 @@
   4. Performing Dax functions
 
 ## DATA SOURCE
-  
+  The reason for this analysis is to get the sales trend and product performance in the !st half of 2015.The dataset used in analysing are categories.csv,customers.csv,employees.csv,order_details.csv,product.csv, and shippers.csv.
+
+## DATA CLEANING AND TRANSFORMATION
+ In deriving a good insight, i ensure tht the dataset are quality and reliable. Columns were checked for duplicates,errors,blank cells, inaccuracies and outliers within the dataset. Below are the steps used in cleaning and transforming the dataset:
+  1. Data quality
+  2. Check for missing values
+  3. Check for blank cells
+  4. Check for duplicates
+  5. Use of Dax function in calculating fields and new columns
+  6. Data Modelling
+
+## DATA MODELLING
+  In this analysis, To get an insight in answering the project questions, The datasets were modelled which was used in creating relationships within the dataset in order to gett an insights. Below image shows the reationships within the dataset
   
  
