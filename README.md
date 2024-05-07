@@ -42,12 +42,15 @@
 ## ANALYSING AND VISUALIZATION
   I carried out a descriptive analysis in order to understand the datasets after data modeelling has been done. Below are the analysis derived for the first quarter of 2015
 
-1. Revenue for 2015
-2. The Average Revenue
-3. Total Quantity
-4. Toatl Order
-5. Total Customer
+1. Revenue for 2015 is $440.62k
+2. The Average Revenue is $637.66
+3. Total Quantity is 16k
+4. Toatl Order is 270
+5. Total Customer is 81
 
 ![](https://github.com/akpanmary46/Akpanoluwadamilola/blob/main/ANALYSIS%20OF%20SALES.png)
+
+## VISUALIZATION
+
 
  
