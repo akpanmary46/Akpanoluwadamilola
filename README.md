@@ -36,5 +36,6 @@
 
 ## DATA MODELLING
   In this analysis, To get an insight in answering the project questions, The datasets were modelled which was used in creating relationships within the dataset in order to gett an insights. Below image shows the reationships within the dataset
+  ![](https://github.com/akpanmary46/Akpanoluwadamilola/blob/main/Modelling.png)
   
  
