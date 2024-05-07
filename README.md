@@ -83,6 +83,6 @@
 
 ### Finding 5
 
- The fifth analysis based on order by category. My insights is based on the highest and lowest and it shows that Beverages ranked as the highest category with a toatal order of 128 made by customers while seafoods ranked second with the order of 101 and daily products rank third with total order of 90. The categories that ranked lowest based on the total order are Grains and cereal with total number of 55,then the second lowest category based on order is 43 which is meat and poultry and meat and produce with total order of 42 .
+ The fifth analysis based on order by category. My insights is based on the highest and lowest and it shows that Beverages ranked as the highest category with a toatal order of 150 made by customers while seafoods ranked second with the order of 112 and Confections rank third with total order of 104. The categories that ranked lowest based on the total order are Grains and cereal with total number of 62,then the second lowest category based on order is 46 which is meat and poultry and meat and produce with total order of 43.
 
- ![](https://github.com/akpanmary46/PowerBi-project/blob/main/VISUAL%205.png)
+![](https://github.com/akpanmary46/PowerBi-project/blob/main/VISUAL%205.png)
