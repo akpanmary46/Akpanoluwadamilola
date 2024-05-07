@@ -67,11 +67,18 @@
 ![](https://github.com/akpanmary46/PowerBi-project/blob/main/VISUAL%202.png)
 
 ### Finding 3
-  The third analysis is based on rder by product. My insights is based on the 1st 3 highest order and 3 lowest order made, the highest ranked product with total order of 23 is konbu,while Guarana Fanatastica  ranked the second with total order of 21 and Camembert Pierrot rank the third with the total order of 19. The order that ranked the lowest is Original Frankfurter Grune Sobe,Outback Lager and Tarte au sucre with total order of 15.
-
+  The third analysis is based on the order by product. My insights is based on the 1st 3 highest order and 3 lowest order made, the highest ranked product with total order of 23 is konbu,while Guarana Fanatastica  ranked the second with total order of 21 and Camembert Pierrot rank the third with the total order of 19. The order that ranked the lowest is Original Frankfurter Grune Sobe,Outback Lager and Tarte au sucre with total order of 15.
+https://github.com/akpanmary46/PowerBi-project/blob/main/VISUAL%204.png
   ### VISUAL 3
 
   ![](https://github.com/akpanmary46/PowerBi-project/blob/main/VISUAL%203.png)
+
+### Finding 4
+  The fourth analysis is based on the sales by month. The insight obtained, The month of April 2015 had the highest sales with $124,000,while March has the second highest sales by $105,000, third highest sales is Febuary with $99,000 and while January is fourth highest sales with $94,000. Based on my analysis insight i discover that Northwind Traders experienced a reduction in sales in May with total sum of $18,000.
+
+  ### VISUAL
+
+![](https://github.com/akpanmary46/PowerBi-project/blob/main/VISUAL%204.png)
 
 
  
