@@ -55,21 +55,21 @@
 ### Finding 1
  It was discovered that within the  different categories of product in which Northwind Traders are buying. Beverages ranked the highest in terms of sales with a total of $116,000 while daily products ranked as the second with total of $75,000 znd confections ranked as the third with total of $55,000. The other cateries with the lowest rank as as follows:condiments with a sales of $33,000,produce is $31,000 and grains and cereal is $29,000.
 
-### VISUAL 1
+### VISUAL 
 
 ![](https://github.com/akpanmary46/PowerBi-project/blob/main/VISUAL%201.png)
 
 ### Finding 2
  The second analysis is based on the sales by product and it id analysis based on the highest and the lowest. i got several result but i have to reduce it to just top 10. in my insight,Thuringer Rostbratwurst ranked the highest with sales of $33,700 whil Uncle bob Organic Dried Pears with a revenue of $12,300 and Wimmers gut with a revenue of $10,700. The Lowest ranked product by category,i discovered that Valkoinen suklaa with sales of $9,000,Tourtierre with sales of $7,000 and Tofu with sales of $4,000.
 
-### VISUAL 2
+### VISUAL 
 
 ![](https://github.com/akpanmary46/PowerBi-project/blob/main/VISUAL%202.png)
 
 ### Finding 3
   The third analysis is based on the order by product. My insights is based on the 1st 3 highest order and 3 lowest order made, the highest ranked product with total order of 23 is konbu,while Guarana Fanatastica  ranked the second with total order of 21 and Camembert Pierrot rank the third with the total order of 19. The order that ranked the lowest is Original Frankfurter Grune Sobe,Outback Lager and Tarte au sucre with total order of 15.
-https://github.com/akpanmary46/PowerBi-project/blob/main/VISUAL%204.png
-  ### VISUAL 3
+  
+  ### VISUAL
 
   ![](https://github.com/akpanmary46/PowerBi-project/blob/main/VISUAL%203.png)
 
