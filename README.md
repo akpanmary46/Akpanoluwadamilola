@@ -36,6 +36,18 @@
 
 ## DATA MODELLING
   In this analysis, To get an insight in answering the project questions, The datasets were modelled which was used in creating relationships within the dataset in order to gett an insights. Below image shows the reationships within the dataset
+ 
   ![](https://github.com/akpanmary46/Akpanoluwadamilola/blob/main/Modelling.png)
-  
+
+## ANALYSING AND VISUALIZATION
+  I carried out a descriptive analysis in order to understand the datasets after data modeelling has been done. Below are the analysis derived for the first quarter of 2015
+
+1. Revenue for 2015
+2. The Average Revenue
+3. Total Quantity
+4. Toatl Order
+5. Total Customer
+
+![](https://github.com/akpanmary46/Akpanoluwadamilola/blob/main/ANALYSIS%20OF%20SALES.png)
+
  
