@@ -59,5 +59,12 @@
 
 ![](https://github.com/akpanmary46/PowerBi-project/blob/main/VISUAL%201.png)
 
+### Finding 2
+ The second analysis is based on the sales by product and it id analysis based on the highest and the lowest. i got several result but i have to reduce it to just top 10. in my discovery ,Thuringer Rostbratwurst ranked the highest with sales of $33,700 whil Uncle bob Organic Dried Pears with a revenue of $12,300 and Wimmers gut with a revenue of $10,700. The Lowest ranked product by category,i discovered that Valkoinen suklaa with sales of $9,000,Tourtierre with sales of $7,000 and Tofu with sales of $4,000.
+
+### VISUAL 2
+
+![](https://github.com/akpanmary46/PowerBi-project/blob/main/VISUAL%202.png)
+
 
  
