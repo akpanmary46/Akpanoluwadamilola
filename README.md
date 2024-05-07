@@ -102,5 +102,26 @@ The visuals below is the screenshot that shows all the report of Northwind Trade
   ### VISUAL
 ![](https://github.com/akpanmary46/PowerBi-project/blob/main/VISUAL%207.png)
 
+## RECOMMENDATIONS
+ 1.What makes customers keep coming back, and how can Northwind Traders use this to get more loyal customers?
+    Answers to Question 1 are as follows:
+    i). By providing incentives for their customers such as Promo,Sales discount etc
+   ii). By building meaningful relation with their customers
+  iii). By drafting a unique marketing strategy
+   iv). By understanding their customer choice of product.
+2. Are there certain products  that are selling faster than others, and how can Northwind Traders make sure they always have enough of these in stock?
+  Answers to Question 2 are as follows:
+  i). Replenish product before they run out of stock
+ ii). Seeking customers feedback regularly
+iii). Ensuring that products choice of the customers is regularly accessable
+ iv). They shoud also anticipate customer demand by analysing historical sales dat,seasonal trends and market fluactuations
+  v). Monitoring of inventory levels
+3. Do diifferent types of customers buy different things, and how can Nothwind Traders use this information to offer products that people want?
+   Answers to Question 3 are as follows:
+   i). North Traders should understand customers choice of specific product
+  ii). Use customer feedback to improve existing and develop ones that align with customers
+ iii). Analyse historical data to predict the products a customer might order next.
+
+
 
 
