@@ -88,3 +88,19 @@
   ###  VISUAL
 
 ![](https://github.com/akpanmary46/PowerBi-project/blob/main/VISUAL%205.png)
+
+### REPORT
+The visuals below is the screenshot that shows all the report of Northwind Traders Sales trend for 2015
+
+  ### VISUAL
+
+ ![](https://github.com/akpanmary46/PowerBi-project/blob/main/VISUAL%206.png)
+
+### PRODUCT PERFORMANCE
+  The visuals below is the screenshot that shows all the product performance for 2015
+
+  ### VISUAL
+![](https://github.com/akpanmary46/PowerBi-project/blob/main/VISUAL%207.png)
+
+
+
