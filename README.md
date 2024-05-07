@@ -55,7 +55,7 @@
 ### Finding 1
  It was discovered that within the  different categories of product in which Northwind Traders are buying. Beverages ranked the highest in terms of sales with a total of $116,000 while daily products ranked as the second with total of $75,000 znd confections ranked as the third with total of $55,000. The other cateries with the lowest rank as as follows:condiments with a sales of $33,000,produce is $31,000 and grains and cereal is $29,000.
 
-     ![](https://github.com/akpanmary46/PowerBi-project/blob/main/VISUAL%201.png)
+!!!!!!!![](https://github.com/akpanmary46/PowerBi-project/blob/main/VISUAL%201.png)
 
 
  
